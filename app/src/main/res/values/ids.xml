@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="country">false</item>
+    <item type="id" name="city">false</item>
+    <item type="id" name="flag">false</item>
+    <item type="id" name="country_name">false</item>
+    <item type="id" name="day">false</item>
+    <item type="id" name="month">false</item>
+    <item type="id" name="year">false</item>
+    <item type="id" name="passw_1">false</item>
+    <item type="id" name="passw_2">false</item>
+    <item type="id" name="passw_3">false</item>
+    <item type="id" name="passw_4">false</item>
+    <item type="id" name="pwd_status">false</item>
+    <item type="id" name="btn_mix">false</item>
+    <item type="id" name="item">false</item>
+    <item type="id" name="slot_1">false</item>
+    <item type="id" name="slot_2">false</item>
+    <item type="id" name="slot_3">false</item>
+    <item type="id" name="speed">false</item>
+    <item type="id" name="units">false</item>
+    <item type="id" name="time2_weekday">false</item>
+    <item type="id" name="time2_monthday">false</item>
+    <item type="id" name="hour">false</item>
+    <item type="id" name="mins">false</item>
+    <item type="id" name="ampm">false</item>
+    <item type="id" name="time">false</item>
+    <item type="id" name="text">false</item>
+</resources>

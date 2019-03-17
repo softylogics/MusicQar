@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name"> MusiQar </string>
+    <string name="Scales">Scales</string>
+    <string name="Chords">Chords</string>
+    <string name="dimi">" Diminished Chord \n"</string>
+    <string name="minor">" Minor Chord \n"</string>
+    <string name="major">" Major Chord \n"</string>
+    <string name="majScale">" Major Scale \n\n"</string>
+    <string name="chordsHeading">Chords in this Scale are: \n\n</string>
+    <string name="start">Play</string>
+    <string name="tempo">Tempo</string>
+    <string name="toolbar_title_metronome">Metronome</string>
+    <string name="scale_chord_finder">Scale/Chord Finder</string>
+    <string name="tips">Tips</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>

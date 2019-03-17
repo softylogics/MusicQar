@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Software Dev\Android Dev &amp; Learning\MusicQar\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="F:\Software Dev\Android Dev &amp; Learning\MusicQar\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_bfd028b8960795b7231d79e466d60f271bc82d27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Software Dev\Android Dev &amp; Learning\MusicQar\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00f93f84a4faa6121425362a55a4bcc6792c1a31">
+        <dex dex="F:\Software Dev\Android Dev &amp; Learning\MusicQar\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5127f9e776e150287daeb2b260b5bc569c5ac453\classes.dex" />
+    </item>
+
+</items>

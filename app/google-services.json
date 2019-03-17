@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "897289755107",
+    "firebase_url": "https://musicqar.firebaseio.com",
+    "project_id": "musicqar",
+    "storage_bucket": "musicqar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897289755107:android:1e321bc6eaab6934",
+        "android_client_info": {
+          "package_name": "com.softylogic.musicQar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897289755107-4k3j4k8hc1i0dsgdr1no0s5kjqmk9q0t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softylogic.musicQar",
+            "certificate_hash": "c635ee67f6f42d53f6ca87c95e8209d322afd08c"
+          }
+        },
+        {
+          "client_id": "897289755107-bva0od3so24sa1h6rmt0v3vc4mtf3ofp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDESRvH_NK2m295DLfZmphp1ideSC4zg0k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897289755107-bva0od3so24sa1h6rmt0v3vc4mtf3ofp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
